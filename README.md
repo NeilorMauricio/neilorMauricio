@@ -3,7 +3,7 @@
 - 🌱 Estudando Java 
 - 📫 Contate-me no email: neilormauricio@gmail.com
 - 😄 Pronouns: ele/dele
-- 🔭 Hoje trabalho como Piloto de Testes Freelancer
+- 🔭 Hoje trabalho como Piloto de Testes Freelancer e Consultoria Automotiva
 
 <div align="center">
   <a href="https://github.com/neilormauricio">
