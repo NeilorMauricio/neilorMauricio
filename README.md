@@ -1,6 +1,6 @@
 ### Olá!  👋
 
-- 🌱 Estudando Java 
+- 🌱 FUMEC- SISTEMA DE INFORMAÇÃO 
 - 📫 Contate-me no email: neilormauricio@gmail.com
 - 😄 Pronouns: ele/dele
 - 🔭 Hoje trabalho com Teleprompter
