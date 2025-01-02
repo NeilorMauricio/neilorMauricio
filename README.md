@@ -3,7 +3,7 @@
 - 🌱 FUMEC- SISTEMA DE INFORMAÇÃO 
 - 📫 Contate-me no email: neilormauricio@gmail.com
 - 😄 Pronouns: ele/dele
-- 🔭 Hoje trabalho com Teleprompter
+- 🔭 Hoje trabalho com Gestão de Tecnologia da Informação 
 
 <div align="center">
   <a href="https://github.com/neilormauricio">
