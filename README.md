@@ -1,6 +1,6 @@
 ### Olá!  👋
 
-- 🌱 FUMEC- SISTEMA DE INFORMAÇÃO 
+- 🌱 FUMEC- Gestão em Tecnologia da Informação
 - 📫 Contate-me no email: neilormauricio@gmail.com
 - 😄 Pronouns: ele/dele
 - 🔭 Hoje trabalho com Gestão de Tecnologia da Informação 
